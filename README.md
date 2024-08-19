@@ -1,4 +1,5 @@
 🎮 Taş, Kağıt, Makas Oyunu
+
 Bu proje, klasik Taş, Kağıt, Makas oyununu Python dilinde terminal üzerinden oynanabilir hale getiren bir uygulamadır. Oyuncu, bilgisayara karşı oynar ve ilk iki eli kazanan oyunu kazanır.
 
 🚀 Nasıl Çalışır?
