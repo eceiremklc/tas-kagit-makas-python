@@ -18,6 +18,7 @@ Bir taraf 2 puana ulaştığında, kazanan ilan edilir.
 Oyun sonunda oyuncuya tekrar oynamak isteyip istemediği sorulur.
 
 📄 Kod Açıklamaları
+
 karsilama_mesaji(): Oyuncuyu karşılayıp oyun kurallarını anlatır.
 secenekleri_goster(): Oyuncuya seçim yapması için seçenekleri sunar.
 skor_guncelle(): Oyuncu ve bilgisayar seçimlerini karşılaştırarak skoru günceller.
