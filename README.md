@@ -20,7 +20,11 @@ Oyun sonunda oyuncuya tekrar oynamak isteyip istemediği sorulur.
 📄 Kod Açıklamaları
 
 karsilama_mesaji(): Oyuncuyu karşılayıp oyun kurallarını anlatır.
+
 secenekleri_goster(): Oyuncuya seçim yapması için seçenekleri sunar.
+
 skor_guncelle(): Oyuncu ve bilgisayar seçimlerini karşılaştırarak skoru günceller.
+
 tekrar_oyna(): Oyuncuya ve bilgisayara tekrar oynayıp oynamayacaklarını sorar.
+
 tas_kagit_makas_Ece_Irem_Kilic(): Oyunun ana fonksiyonudur. Oyun akışını yönetir ve oyunu başlatır.
